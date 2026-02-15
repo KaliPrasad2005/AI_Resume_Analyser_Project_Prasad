@@ -29,14 +29,6 @@ Designed to help job seekers increase interview shortlisting chances using AI-dr
 - 🔍 Missing Skills & Keyword Detection  
 - 💡 Improvement Recommendations  
 
-## 🔥 Why This Project Stands Out
-
-- Solves a **real-world hiring problem**
-- Combines **AI + Web Development**
-- Recruiter-focused solution
-- Demonstrates understanding of **ATS systems & keyword optimization**
-- Can be extended with LLM integration (OpenAI / Gemini)
-
 ## 📈 Future Enhancements
 
 - Add GPT-based rewrite suggestions  
